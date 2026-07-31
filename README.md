@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🎓 **Education:** Information Technology Student @ Maejo University (4th Year)
-- 💼 **Looking for:** Full Stack Developer / Software Engineer Internship
+- 💼 **Looking for:** Full Stack Developer 
 - 🎯 **Focus Areas:** Web Application Development, RESTful APIs, Mobile App Development
 - 💬 **Ask me about:** React, Spring Boot, Flutter, MySQL/PostgreSQL
 - 📫 **Contact:** [krisitkhun@gmail.com] 
