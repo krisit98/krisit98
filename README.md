@@ -5,7 +5,7 @@
 - 💼 **Looking for:** Full Stack Developer / Software Engineer Internship
 - 🎯 **Focus Areas:** Web Application Development, RESTful APIs, Mobile App Development
 - 💬 **Ask me about:** React, Spring Boot, Flutter, MySQL/PostgreSQL
-- 📫 **Contact:** [อีเมลของคุณ@gmail.com] | [LinkedIn Profile Link]
+- 📫 **Contact:** [krisitkhun@gmail.com] 
 
 ---
 
@@ -35,20 +35,22 @@
 
 ### 📌 Featured Projects
 
-#### 1. 🌐 [Project Name 1] - Full Stack Web Application
-* **Description:** [คำอธิบายสั้นๆ ว่าระบบนี้คืออะไร และแก้ปัญหาอะไร]
-* **Tech Stack:** React, Spring Boot, PostgreSQL, Docker
-* **Key Features:**
-  * Authentication System (JWT)
-  * RESTful API integration
-* **Link:** [GitHub Repo Link] | [Live Demo Link (ถ้ามี)]
+#### 1. 🌐 MOVIE REVIEW WEB
+*  JSP · Spring Boot · MySQL
+* 
+    Developed a movie review platform where users can browse, rate, and post reviews for films
+Designed and implemented the MySQL database schema for managing movies, users, and reviews
+Built server-side logic with Spring Boot to handle review submission and data retrieval
 
-#### 2. 📱 [Project Name 2] - Mobile Application
-* **Description:** [คำอธิบายแอปพลิเคชันมือถือ]
-* **Tech Stack:** Flutter, Node.js, Firebase
-* **Link:** [GitHub Repo Link]
 
----
+#### 2. 📱 Pet Grooming Management System
+*  Flutter · MySQL
+* 
+   Designed the user interface for a pet grooming system
+Created a database for customers and appointments
+Designed a pet grooming booking website
+Worked with a team to complete the project
+
 
 ### 📊 GitHub Stats
 
