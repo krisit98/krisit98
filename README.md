@@ -1,10 +1,10 @@
 # Hi there, I'm Krisit Sinpiang (Khun) 👋
 
 ### 🚀 About Me
-- 🎓 **Education:** 4th-year Information Technology student at Maejo University (GPA: 2.65)[cite: 1]
-- 💼 **Looking for:** Full Stack Developer Internship[cite: 1]
-- 🎯 **Summary:** Proficient in frontend and backend development using React, Spring Boot, Flutter, and relational databases. Ready to apply practical project experience, problem-solving skills, and AI tool applications to contribute effectively.[cite: 1]
-- 📫 **Contact:** krisitkhun@gmail.com | 📞 096-669-0227[cite: 1]
+- 🎓 **Education:** 4th-year Information Technology student at Maejo University (GPA: 2.65)
+- 💼 **Looking for:** Full Stack Developer Internship
+- 🎯 **Summary:** Proficient in frontend and backend development using React, Spring Boot, Flutter, and relational databases. Ready to apply practical project experience, problem-solving skills, and AI tool applications to contribute effectively.
+- 📫 **Contact:** krisitkhun@gmail.com | 📞 096-669-0227
 
 ---
 
